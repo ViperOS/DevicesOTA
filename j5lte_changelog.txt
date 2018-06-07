@@ -1,0 +1,11 @@
+What's working :
+Boots
+RIL
+Audio
+Sensors
+Flash
+Camera
+Video recording
+GPS
+Wifi
+Bluetooth
