@@ -1,0 +1,7 @@
+Build v1.0 20180610:
+First Build;
+June Security Patch;
+Used kernel RenderFlash 2.3.2 updates;
+Compiled with Clang;
+GoogleCam by Arnova8G2 full works;
+ARCore for Google câmera emotions;
