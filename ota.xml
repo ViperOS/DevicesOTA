@@ -55,6 +55,18 @@
                   <forum>https://forum.xda-developers.com/galaxy-j5/development/rom-toxycos-1-0-t3802863</forum>
                   <telegram>https://t.me/JBCDroid_Tox</telegram>
             </j5lte>
+
+            <j53gxx>
+                  <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
+                  <devicename>Samsung Galaxy J5 2015 3G (j53gxx)</devicename>
+                  <filename>toxyc-j53gxx-20180612-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download>https://www.androidfilehost.com/?fid=746163614322270459</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j53gxx_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <telegram></telegram>
+            </j53gxx>
+
       </manufacturer>
 
 </OTA>
