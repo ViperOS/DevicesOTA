@@ -14,6 +14,20 @@
 -->
 <OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 
+<!-- MOTOROLA -->
+      <manufacturer id="Motorola">
+            <surnia>
+                  <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
+                  <devicename>Motorola Moto E 2015 LTE (surnia)</devicename>
+                  <filename>toxyc-surnia-20180610-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download>https://androidfilehost.com/?fid=890278863836290794</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/surnia_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <forum>https://forum.xda-developers.com/moto-e-2015/development/rom-toxycos-moto-e-2015-lte-t3802403</forum>
+                  <telegram></telegram>
+            </surnia>
+
 <!-- ONEPLUS -->
       <manufacturer id="Oneplus">
             <cheesebuger>
