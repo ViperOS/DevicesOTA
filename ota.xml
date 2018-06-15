@@ -27,10 +27,11 @@
                   <forum>https://forum.xda-developers.com/moto-e-2015/development/rom-toxycos-moto-e-2015-lte-t3802403</forum>
                   <telegram></telegram>
             </surnia>
+      </manufacturer>
 
 <!-- ONEPLUS -->
       <manufacturer id="Oneplus">
-            <cheesebuger>
+            <cheeseburger>
                   <maintainer>EsromTech (feat RMarchetto)</maintainer>
                   <devicename>Oneplus 5 (cheeseburger)</devicename>
                   <filename>toxyc-cheeseburger-20180610-v1.0-OFFICIAL</filename>
@@ -53,7 +54,6 @@
                   <forum>https://forum.xda-developers.com/oneplus-5t/development/rom-toxycos-oneplus-5t-t3802332</forum>
                   <telegram></telegram>
             </dumpling>
-
       </manufacturer>
 
 <!-- SAMSUNG -->
@@ -80,7 +80,6 @@
                   <gapps>http://opengapps.org</gapps>
                   <telegram></telegram>
             </j53gxx>
-
       </manufacturer>
 
 </OTA>
