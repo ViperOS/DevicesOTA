@@ -1,3 +1,11 @@
+Build v1.0 20180617:
+Update kernel source 4.4.138-rc1
+Kernel and ROM compiled with Linaro 7.3.1
+Update clang for latest clang may 2018
+Fix Google camera libs
+Fix support dash charge
+
+
 Build v1.0 20180610:
 First Build;
 June Security Patch;

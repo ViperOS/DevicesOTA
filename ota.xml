@@ -34,9 +34,9 @@
             <cheeseburger>
                   <maintainer>EsromTech (feat RMarchetto)</maintainer>
                   <devicename>Oneplus 5 (cheeseburger)</devicename>
-                  <filename>toxyc-cheeseburger-20180610-v1.0-OFFICIAL</filename>
+                  <filename>toxyc-cheeseburger-20180617-v1.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
-                  <download>https://androidfilehost.com/?fid=674106145207492345</download>
+                  <download>https://androidfilehost.com/?fid=962339331459000908</download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/cheeseburger_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/oneplus-5/development/rom-toxycos-oneplus-5-t3802367</forum>
@@ -46,9 +46,9 @@
             <dumpling>
                   <maintainer>EsromTech (feat RMarchetto)</maintainer>
                   <devicename>Oneplus 5T (dumpling)</devicename>
-                  <filename>toxyc-dumpling-20180610-v1.0-OFFICIAL</filename>
+                  <filename>toxyc-dumpling-20180616-v1.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
-                  <download>https://androidfilehost.com/?fid=962339331458997394</download>
+                  <download>https://androidfilehost.com/?fid=890278863836294507</download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/oneplus-5t/development/rom-toxycos-oneplus-5t-t3802332</forum>
