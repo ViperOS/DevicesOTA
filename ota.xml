@@ -61,7 +61,7 @@
             <j5lte>
                   <maintainer>Jonathan Bruno (JBCDroid)</maintainer>
                   <devicename>Samsung Galaxy J5 2015 (j5lte)</devicename>
-                  <filename>toxyc-j5lte-20180613-v1.0-OFFICIAL</filename>
+                  <filename>toxyc-j5lte-20180617-v1.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
                   <download>https://androidfilehost.com/?fid=890278863836290993</download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j5lte_changelog.txt</changelog>
