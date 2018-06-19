@@ -1,0 +1,12 @@
+Build v1.0 20180618:
+Upstreamed: Kernel to v3.18.113 (Using AGKernel);
+Increased: Optimizations of Kernel (Credits totally to anirudhgupta109);
+Removed: Increase zRAM size (Unnecessary);
+Fixed: Google Camera Libs;
+Fixed: ScreenRecording;
+Fixed: Offline Charging.
+
+
+Build v1.0 20180610:
+First Build;
+June Security Patch.
