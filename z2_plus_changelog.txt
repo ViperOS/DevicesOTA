@@ -1,0 +1,8 @@
+Build v1.0 20180614
+APN Bug Fixed
+Scrolling improved
+Added VoLTE icon
+
+Build v1.0 20180611
+First Build
+June Security Patch
