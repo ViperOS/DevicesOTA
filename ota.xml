@@ -14,6 +14,21 @@
 -->
 <OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 
+<!-- LENOVO -->
+      <manufacturer id="Lenovo">
+            <z2_plus>
+                  <maintainer>Yash Karande (cyproto)</maintainer>
+                  <devicename>Lenovo Zuk Z2 Plus (z2_plus)</devicename>
+                  <filename>toxyc-z2_plus-20180614-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download>https://androidfilehost.com/?fid=746163614322271830</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/z2_plus_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <forum>https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-toxycos-1-0-t3802629</forum>
+                  <telegram>https://t.me/cyproto</telegram>
+            </z2_plus>
+      </manufacturer>
+
 <!-- MOTOROLA -->
       <manufacturer id="Motorola">
             <surnia>
