@@ -51,7 +51,7 @@
                   <devicename>Oneplus 3 (oneplus3)</devicename>
                   <filename>toxyc-oneplus3-20180610-v1.0-OFFICIAL.zip</filename>
                   <buildtype>Stable</buildtype>
-                  <download>https://androidfilehost.com/?a=show&w=files&flid=275761</download>
+                  <download>https://www.androidfilehost.com/?w=files&flid=275761</download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/oneplus3_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-toxycos-1-0-oneplus-3-3t-t3802340</forum>
