@@ -29,6 +29,21 @@
             </z2_plus>
       </manufacturer>
 
+<!-- LEECO -->
+      <manufacturer id="LeEco">
+            <zl1>
+                  <maintainer>Jakub Frelik (Quavosh)</maintainer>
+                  <devicename>Le Pro 3</devicename>
+                  <filename>toxyc-zl1-20180621-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download>https://bit.ly/2IaRgkA</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/zl1_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <forum>https://bit.ly/2lmxNEL</forum>
+		  <telegram>https://t.me/quavosh</telegram>
+            </zl1>
+      </manufacturer>
+
 <!-- MOTOROLA -->
       <manufacturer id="Motorola">
             <surnia>
