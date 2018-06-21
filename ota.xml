@@ -122,6 +122,18 @@
                   <forum>https://forum.xda-developers.com/redmi-4a/development/rom-toxycos-redmi-4a-5a-t3802457</forum>
                   <telegram>https://t.me/ECr34T1v3</telegram>
             </rolex>
+            
+            <mido>
+                  <maintainer>Dell Schulz (Dark_LordX)</maintainer>
+                  <devicename>Xiaomi Redmi Note 4 (Mido)</devicename>
+                  <filename>toxyc-rolex-20180611-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download>https://androidfilehost.com/?fid=674106145207492540</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <forum>https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-toxycos-redmi-note-4x-t3806878</forum>
+                  <telegram>https://t.me/Dark_lordX</telegram>
+            </mido>
       </manufacturer>
       
 </OTA>
