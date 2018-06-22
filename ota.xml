@@ -161,5 +161,17 @@
 	      	  <forum>https://forum.xda-developers.com/mi-6/development/rom-toxycos-v1-0-t3804882</forum>
 	     	  <telegram>https://t.me/ArianK16a</telegram>
 	    </sagit>
+	
+	<tissot>
+                  <maintainer>Abhinav Gupta  (Agrd1129)</maintainer>
+                  <devicename>Mi A1 (tissot)</devicename>
+                  <filename>toxyc-tissot-20180622-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download>https://www.androidfilehost.com/?fid=890278863836296227</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/tissot_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <forum>https://forum.xda-developers.com/showthread.php?t=3807493</forum>
+                  <telegram>https://t.me/agrd1129</telegram>
+            </tissot>
 	</manufacturer> 
 </OTA>
