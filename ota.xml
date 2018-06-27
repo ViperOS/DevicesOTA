@@ -40,7 +40,7 @@
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/zl1_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://bit.ly/2lmxNEL</forum>
-		              <telegram>https://t.me/quavosh</telegram>
+                  <telegram>https://t.me/quavosh</telegram>
             </zl1>
       </manufacturer>
 
@@ -150,19 +150,19 @@
                   <telegram>https://t.me/Dark_lordX</telegram>
             </mido>
 	
-	          <sagit>
-		              <maintainer>Arian Keller (LMMFHHO)</maintainer>
-		              <devicename>Xiaomi Mi 6 (Sagit)</devicename>
-		              <filename>toxyc-sagit-20180621-v.1.0-OFFICIAL</filename>
-		              <buildtype>stable</buildtype>
-		              <download>https://androidfilehost.com/?fid=746163614322273439</download>
-		              <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/sagit_changelog.txt</changelog>
-		              <gapps>http://opengapps.org</gapps></gapps>
-	      	        <forum>https://forum.xda-developers.com/mi-6/development/rom-toxycos-v1-0-t3804882</forum>
-	     	         <telegram>https://t.me/ArianK16a</telegram>
-	         </sagit>
+            <sagit>
+                  <maintainer>Arian Keller (LMMFHHO)</maintainer>
+                  <devicename>Xiaomi Mi 6 (Sagit)</devicename>
+                  <filename>toxyc-sagit-20180621-v.1.0-OFFICIAL</filename>
+                  <buildtype>stable</buildtype>
+                  <download>https://androidfilehost.com/?fid=746163614322273439</download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/sagit_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps></gapps>
+                  <forum>https://forum.xda-developers.com/mi-6/development/rom-toxycos-v1-0-t3804882</forum>
+	          <telegram>https://t.me/ArianK16a</telegram>
+	    </sagit>
 	
-	         <tissot>
+	    <tissot>
                   <maintainer>Abhinav Gupta  (Agrd1129)</maintainer>
                   <devicename>Mi A1 (tissot)</devicename>
                   <filename>toxyc-tissot-20180622-v1.0-OFFICIAL</filename>
@@ -174,7 +174,7 @@
                   <telegram>https://t.me/agrd1129</telegram>
             </tissot>
   
-	          <santoni>
+	    <santoni>
                   <maintainer>Jyotiraditya Panda</maintainer>
                   <devicename>Xiaomi Redmi 4 (Santoni)</devicename>
                   <filename>toxyc-santoni-20180628-v1.0-OFFICIAL</filename>
@@ -186,7 +186,7 @@
                   <telegram>https://t.me/X_o_x_o_x_o_X</telegram>
             </santoni>
   
-	          <kenzo>
+	    <kenzo>
                   <maintainer>pratik pithore (death_note27)</maintainer>
                   <devicename>Xiaomi Redmi Note 3 (kenzo)</devicename>
                   <filename>toxyc-kenzo-20180613-v1.0-OFFICIAL</filename>
