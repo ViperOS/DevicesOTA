@@ -68,9 +68,20 @@
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/moto-e-2015/development/rom-toxycos-moto-e-2015-lte-t3802403</forum>
                   <telegram></telegram>
-            </surnia>
-      </manufacturer>
-
+            </surnia>	
+	      
+            <albus>
+                  <maintainer>Bruno Rocha</maintainer>
+                  <devicename>Motorola Moto Z2 Play (albus)</devicename>
+                  <filename>toxyc-albus-20180628-v1.0-OFFICIAL</filename>
+                  <buildtype>Stable</buildtype>
+                  <download></download>
+                  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
+                  <gapps>http://opengapps.org</gapps>
+                  <forum></forum>
+                  <telegram></telegram>
+            </albus>
+	      
 <!-- ONEPLUS -->
       <manufacturer id="Oneplus">
             <oneplus3>
