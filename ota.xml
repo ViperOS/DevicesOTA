@@ -81,7 +81,8 @@
                   <forum></forum>
                   <telegram></telegram>
             </albus>
-	      
+      </manufacturer>	      
+
 <!-- ONEPLUS -->
       <manufacturer id="Oneplus">
             <oneplus3>
