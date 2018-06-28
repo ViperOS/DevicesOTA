@@ -27,18 +27,18 @@
                   <forum>https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-toxycos-1-0-t3802629</forum>
                   <telegram>https://t.me/cyproto</telegram>
             </z2_plus>
-	      <A6020>
-		      <maintainer> Chaitanaya Mittal (Professional_Guider)</maintainer>
-		      <devicename>Lenovo Vibe K5/K5+ (A6020)</devicename>
-		      <filename>toxyc-A6020-20180611-v1.0-OFFICIAL.zip</filename>
-		      <buildtype>stable</buildtype>
-		      <download>https://androidfilehost.com/?fid=746163614322270176</download>
-		      <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/A6020_changelog.txt</changelog>
-		      <gapps>https://opengapps.org</gapps>
-		      <forum>https://forum.xda-developers.com/k5-plus/development/rom-r30-toxyc-os-v1-0-lenovo-vibe-k5-k5-t3802812</forum>
-		      <telegram>https://t.me/Professional_Guider</telegram>
-		      </A6020>
-		
+
+	    <A6020>
+        	  <maintainer> Chaitanaya Mittal (Professional_Guider)</maintainer>
+		  <devicename>Lenovo Vibe K5/K5+ (A6020)</devicename>
+		  <filename>toxyc-A6020-20180611-v1.0-OFFICIAL.zip</filename>
+		  <buildtype>stable</buildtype>
+		  <download>https://androidfilehost.com/?fid=746163614322270176</download>
+		  <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/A6020_changelog.txt</changelog>
+		  <gapps>https://opengapps.org</gapps>
+		  <forum>https://forum.xda-developers.com/k5-plus/development/rom-r30-toxyc-os-v1-0-lenovo-vibe-k5-k5-t3802812</forum>
+		  <telegram>https://t.me/Professional_Guider</telegram>
+             </A6020>	
       </manufacturer>
 
 <!-- LEECO -->
