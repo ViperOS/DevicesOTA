@@ -1,12 +1,37 @@
-Build v1.0 20180617:
+### Build v2.0 20180705: ###
+-Android 8.1.0_r41
+-July security patch
+-Introduced new functional OTA
+-Added new Lockscreen clock widget
+-Added double tap in lock screen to sleep
+-Added double tap in status bar to sleep
+-Added Android P Transition (Enable/Disable)
+-Added right/left virtual buttons if you are typing(Enable/Disable)
+-Added Network Traffic
+-Added Enable/Disable Digital Authentication Vibration
+-Added Face Unlock Settings for Supported Devices
+-Added Battery LED Settings
+-Added Configurations for Notification LEDs
+-Added Button light settings
+-Carrier name extended to 15 characters
+### Changelog device OP5/T ###
+-Actualized Google Camera by Arnova8G2
+-Updated libs for Google Camera
+-Movements of performance
+-WiFi enhancements
+-Added pocketmode again (now works)
+-Adjustments for better use of the battery with EAS
+-Kernel FlashKernel by NathanChance
+-Full screen ascpet radio support
+
+### Build v1.0 20180616: ###
 Update kernel source 4.4.138-rc1
 Kernel and ROM compiled with Linaro 7.3.1
 Update clang for latest clang may 2018
 Fix Google camera libs
 Fix support dash charge
 
-
-Build v1.0 20180610:
+### Build v1.0 20180610: ###
 First Build;
 June Security Patch;
 Used kernel RenderFlash 2.3.2 updates;

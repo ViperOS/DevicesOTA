@@ -98,7 +98,7 @@
             </oneplus3>
                   
             <cheeseburger>
-                  <maintainer>EsromTech (feat RMarchetto)</maintainer>
+                  <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                   <devicename>Oneplus 5 (cheeseburger)</devicename>
                   <filename>toxyc-cheeseburger-20180617-v1.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
@@ -110,7 +110,7 @@
             </cheeseburger>
 
             <dumpling>
-                  <maintainer>EsromTech (feat RMarchetto)</maintainer>
+                  <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                   <devicename>Oneplus 5T (dumpling)</devicename>
                   <filename>toxyc-dumpling-20180616-v1.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
