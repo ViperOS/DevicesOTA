@@ -94,7 +94,7 @@
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/oneplus3_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-toxycos-1-0-oneplus-3-3t-t3802340</forum>
-                  <telegram></telegram>
+                  <telegram>https://t.me/toxycos_chat</telegram>
             </oneplus3>
                   
             <cheeseburger>
@@ -106,7 +106,7 @@
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/cheeseburger_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/oneplus-5/development/rom-toxycos-oneplus-5-t3802367</forum>
-                  <telegram></telegram>
+                  <telegram>https://t.me/toxycos_chat</telegram>
             </cheeseburger>
 
             <dumpling>
@@ -118,7 +118,7 @@
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
                   <forum>https://forum.xda-developers.com/oneplus-5t/development/rom-toxycos-oneplus-5t-t3802332</forum>
-                  <telegram></telegram>
+                  <telegram>https://t.me/toxycos_chat</telegram>
             </dumpling>
       </manufacturer>
 
@@ -221,7 +221,7 @@
                   <forum>https://forum.xda-developers.com/redmi-note-3/development/rom-toxycos-redmi-note3-t3804567</forum>
                   <telegram>https://t.me/death_note27</telegram>
             </kenzo>
-	<vince>
+	    <vince>
                   <maintainer>Raj Kale (Rajkale99)</maintainer>
                   <devicename>Redmi Note 5/5 Plus (vince)</devicename>
                   <filename>toxyc-vince-20180706-v2.0-OFFICIAL</filename>
