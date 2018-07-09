@@ -1,3 +1,20 @@
-Build v1.0 20180628:
-First Build;
-June Security Patch;
+# Build v2.0 20180709 #
+*Android 8.1.0_r41.
+*July security patch.
+*Introduced new functional OTA
+*Added battery LED enable/disable,
+*Added enable/disable navbar,
+*Added Android P Transitions,
+*Added Network Traffic,
+*And all of ToxycOS V2 features.
+- Albus changes -
+*Updated 64bits media blobs,
+*Update media configs,
+*Imported Nash sensor blobs,
+(Thanks Rahul S Nair).
+*Fixed sound issues
+*Selinux stay permissive
+
+# Build v1.0 20180628 #
+*First Build;
+*June Security Patch;
