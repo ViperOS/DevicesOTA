@@ -71,15 +71,15 @@
             </surnia>	
 	      
             <albus>
-                  <maintainer>Bruno Rocha</maintainer>
+                  <maintainer>BrunoRocha</maintainer>
                   <devicename>Motorola Moto Z2 Play (albus)</devicename>
-                  <filename>toxyc-albus-20180628-v1.0-OFFICIAL</filename>
+                  <filename>toxyc-albus-20180709-v2.0-OFFICIAL</filename>
                   <buildtype>Stable</buildtype>
                   <download></download>
                   <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
                   <gapps>http://opengapps.org</gapps>
-                  <forum></forum>
-                  <telegram></telegram>
+                  <forum>https://forum.xda-developers.com/z2-play/development/rom-toxycos-moto-z2-play-t3810137</forum>
+                  <telegram>https://t.me/toxyc_albus_testers</telegram>
             </albus>
       </manufacturer>	      
 
