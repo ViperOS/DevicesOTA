@@ -81,6 +81,18 @@
                            <forum>https://forum.xda-developers.com/z2-play/development/rom-toxycos-moto-z2-play-t3810137</forum>
                            <telegram>https://t.me/toxyc_albus_testers</telegram>
                   </albus>
+
+                  <osprey>
+                           <maintainer>Zilberto Junior (ZJRDroid)</maintainer>
+                           <devicename>Motorola Moto G 2015 (osprey)</devicename>
+                           <filename>toxyc-osprey-20180707-v2.0-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://www.androidfilehost.com/?fid=5862345805528042629</download>
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/osprey_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/ZJRDroid</telegram>
+                  </osprey>
          </manufacturer>	      
 
 <!-- ONEPLUS -->
