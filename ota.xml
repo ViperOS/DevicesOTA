@@ -161,7 +161,31 @@
          </manufacturer>
 
 <!-- XIAOMI -->
-         <manufacturer id="Xiaomi">
+         <manufacturer id="Xiaomi">              
+                  <capricorn>
+                           <maintainer>Henrique Pereira (Hlcpereira)</maintainer>
+                           <devicename>Xiaomi Mi 5s (Capricorn)</devicename>
+                           <filename>toxyc-capricorn-20180708-v2.0-OFFICIAL</filename>
+                           <buildtype>stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=5862345805528047024</download>
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/capricorn_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps></gapps>
+                           <forum>https://forum.xda-developers.com/mi-5s/development/rom-toxycos-v1-0-t3803875</forum>
+	                   <telegram>https://t.me/Hlcpereira</telegram>
+                  </capricorn>
+
+                  <gemini>
+                           <maintainer>Henrique Pereira (Hlcpereira)</maintainer>
+                           <devicename>Xiaomi Mi 5 (Gemini)</devicename>
+                           <filename>toxyc-gemini-20180710-v2.0-OFFICIAL</filename>
+                           <buildtype>stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=5862345805528047020</download>
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/gemini_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps></gapps>
+                           <forum>https://forum.xda-developers.com/mi-5/development/rom-toxycos-v1-0-t3806012</forum>
+                           <telegram>https://t.me/Hlcpereira</telegram>
+                  </gemini>
+
                   <rolex>
                            <maintainer>Erik Garcia (ECr34T1v3)</maintainer>
                            <devicename>Xiaomi Redmi 4A (rolex)</devicename>
@@ -185,6 +209,18 @@
                            <forum>https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-toxycos-redmi-note-4x-t3806878</forum>
                            <telegram>https://t.me/Dark_lordX</telegram>
                   </mido>
+
+                  <natrium>
+                           <maintainer>Hlcpereira (Hlcpereira)</maintainer>
+                           <devicename>Xiaomi Mi 5s Plus (Natrium)</devicename>
+                           <filename>toxyc-natrium-20180712-v2.0-OFFICIAL</filename>
+                           <buildtype>stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=5862345805528047026</download>
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/natrium_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps></gapps>
+                           <forum>https://forum.xda-developers.com/mi-5s-plus/development/rom-toxycos-v1-0-t3804242</forum>
+                           <telegram>https://t.me/Hlcpereira</telegram>
+                  </natrium>
 
                   <sagit>
                            <maintainer>Arian Keller (LMMFHHO)</maintainer>
