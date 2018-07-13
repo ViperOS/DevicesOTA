@@ -29,7 +29,7 @@
                   </z2_plus>
 
                   <A6020>
-                           <maintainer> Chaitanaya Mittal (Professional_Guider)</maintainer>
+                           <maintainer>Chaitanaya Mittal (Professional_Guider)</maintainer>
                            <devicename>Lenovo Vibe K5/K5+ (A6020)</devicename>
                            <filename>toxyc-A6020-20180708-v2.0-OFFICIAL.zip</filename>
                            <buildtype>stable</buildtype>
@@ -38,7 +38,7 @@
                            <gapps>https://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/k5-plus/development/rom-r30-toxyc-os-v1-0-lenovo-vibe-k5-k5-t3802812</forum>
                            <telegram>https://t.me/Professional_Guider</telegram>
-                  </A6020>	
+                  </A6020>
          </manufacturer>
 
 <!-- LEECO -->
@@ -68,7 +68,7 @@
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/moto-e-2015/development/rom-toxycos-moto-e-2015-lte-t3802403</forum>
                            <telegram></telegram>
-                  </surnia>	
+                  </surnia>
 
                   <albus>
                            <maintainer>BrunoRocha</maintainer>
@@ -93,7 +93,7 @@
                            <forum></forum>
                            <telegram>https://t.me/ZJRDroid</telegram>
                   </osprey>
-         </manufacturer>	      
+         </manufacturer>
 
 <!-- ONEPLUS -->
          <manufacturer id="Oneplus">
@@ -161,7 +161,7 @@
          </manufacturer>
 
 <!-- XIAOMI -->
-         <manufacturer id="Xiaomi">              
+         <manufacturer id="Xiaomi">
                   <capricorn>
                            <maintainer>Henrique Pereira (Hlcpereira)</maintainer>
                            <devicename>Xiaomi Mi 5s (Capricorn)</devicename>
@@ -169,9 +169,9 @@
                            <buildtype>stable</buildtype>
                            <download>https://androidfilehost.com/?fid=5862345805528047024</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/capricorn_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps></gapps>
+                           <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/mi-5s/development/rom-toxycos-v1-0-t3803875</forum>
-	                   <telegram>https://t.me/Hlcpereira</telegram>
+                           <telegram>https://t.me/Hlcpereira</telegram>
                   </capricorn>
 
                   <gemini>
@@ -181,7 +181,7 @@
                            <buildtype>stable</buildtype>
                            <download>https://androidfilehost.com/?fid=5862345805528047020</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/gemini_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps></gapps>
+                           <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/mi-5/development/rom-toxycos-v1-0-t3806012</forum>
                            <telegram>https://t.me/Hlcpereira</telegram>
                   </gemini>
@@ -217,7 +217,7 @@
                            <buildtype>stable</buildtype>
                            <download>https://androidfilehost.com/?fid=5862345805528047026</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/natrium_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps></gapps>
+                           <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/mi-5s-plus/development/rom-toxycos-v1-0-t3804242</forum>
                            <telegram>https://t.me/Hlcpereira</telegram>
                   </natrium>
