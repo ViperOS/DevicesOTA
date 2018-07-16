@@ -100,7 +100,7 @@
                   <oneplus3>
                            <maintainer>Rkschunk</maintainer>
                            <devicename>Oneplus 3 (oneplus3)</devicename>
-                           <filename>toxyc-oneplus3-20180610-v1.0-OFFICIAL</filename>
+                           <filename>toxyc-oneplus3-20180715-v2.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
                            <download>https://androidfilehost.com/?fid=5862345805528049559</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/oneplus3_changelog.txt</changelog>
