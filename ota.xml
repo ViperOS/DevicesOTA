@@ -158,6 +158,17 @@
                            <gapps>http://opengapps.org</gapps>
                            <telegram></telegram>
                   </j53gxx>
+
+                  <j5nlte>
+                           <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
+                           <devicename>Samsung Galaxy J5 2015 NFC (j5nlte)</devicename>
+                           <filename>toxyc-j5nlte-20180721-v2.0-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://www.androidfilehost.com/?fid=5862345805528055056</download>
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j5nlte_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <telegram></telegram>
+                  </j5nlte>
          </manufacturer>
 
 <!-- XIAOMI -->
