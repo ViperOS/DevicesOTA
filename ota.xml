@@ -283,15 +283,27 @@
 
                   <vince>
                            <maintainer>Raj Kale (Rajkale99)</maintainer>
-                           <devicename>Redmi Note 5/5 Plus (vince)</devicename>
+                           <devicename>Redmi 5 Plus (vince)</devicename>
                            <filename>toxyc-vince-20180706-v2.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
                            <download>https://androidfilehost.com/?fid=5862345805528041404</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/vince_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/redmi-note-5/development/rom-toxyc-os-t3813244</forum>
-                           <telegram>https://t.me/Rajkale99</telegram>
+                           <telegram>https://t.me/toxycos</telegram>
                   </vince>
+
+                  <whyred>
+                           <maintainer>Ayan Uchiha Choudhury</maintainer>
+                           <devicename>Redmi Note 5 (whyred)</devicename>
+                           <filename>toxyc-whyred-2018xxxx-v2.0-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=</download>
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/whyred_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/redmi-note-5-pro/development/unofficial-toxyc-os-t3819333</forum>
+                           <telegram>https://t.me/toxycos</telegram>
+                  </whyred>
          </manufacturer>
 
 </OTA>
