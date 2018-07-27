@@ -1,3 +1,18 @@
+Build v2.0 20180727:
+
+Merged: New Version of ToxycOS (v2.0);
+Merged: July Security Patch;
+Upstreamed: Kernel to Catalyst Kernel (v3.18.114);
+*Use Spectrum App [Root] and select Battery profile for better battery performance*
+*This new kernel already support Spectrum app and overclocked*
+Merged: Kernel Compiled with Clang 7.0.2;
+Merged: New Vendor Blobs from tissot;
+Readded: Increase zRAM size (I changed my mind :p);
+Added: Overlay for Battery LED settings;
+Adjustmented: Use power_profile by default (Redmi 5A);
+Added: Universal XiaomiDoze (Fixed Battery Drain);
+Fixed: Min_fps hack (Fixed Camera Dark).
+
 Build v1.0 20180618:
 Upstreamed: Kernel to v3.18.113 (Using AGKernel);
 Increased: Optimizations of Kernel (Credits totally to anirudhgupta109);
@@ -5,7 +20,6 @@ Removed: Increase zRAM size (Unnecessary);
 Fixed: Google Camera Libs;
 Fixed: ScreenRecording;
 Fixed: Offline Charging.
-
 
 Build v1.0 20180610:
 First Build;
