@@ -71,9 +71,9 @@
                   </surnia>
 
                   <albus>
-                           <maintainer>BrunoRocha</maintainer>
+                           <maintainer>Bruno Rocha</maintainer>
                            <devicename>Motorola Moto Z2 Play (albus)</devicename>
-                           <filename>toxyc-albus-20180709-v2.0-OFFICIAL</filename>
+                           <filename>toxyc-albus-20180729-v2.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
