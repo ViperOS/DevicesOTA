@@ -1,3 +1,14 @@
+# Build v2.0 20180729 #
+* Fixed Wi-Fi issues;
+* Added improvements to the kernel from RADIUM-REBORN (Thanks KalilDev);
+- Added CPU HotPlug,
+- Several improvements in CPU Governors (better standby battery-life),
+- Added new CPU Governors: alucard / darkness / nightmare / ironactive...
+* Enabled kernel build in LLVM;
+* Reconfigure GPU Algorithms (less lags when play games);
+* Removed FM Radio app;
+* Removed DTV app (prebuilt app incompatible with DTV Snap).
+
 # Build v2.0 20180709 #
 *Android 8.1.0_r41.
 *July security patch.
