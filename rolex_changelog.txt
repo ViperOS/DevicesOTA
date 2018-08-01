@@ -1,3 +1,7 @@
+Build v2.0 20180801:
+
+Reverted: New Vendor Blobs from tissot (Fixed RIL).
+
 Build v2.0 20180727:
 
 Merged: New Version of ToxycOS (v2.0);
