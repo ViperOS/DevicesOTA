@@ -1,3 +1,28 @@
+### Build v3.0 20180812: ###
+-August Security Patch.
+-Updated all GZOSP base source.
+-Round system icons by default.
+-Design improvements ToxycOS.
+-Android P style volume panel.
+-Rounded UI (Corners, QS, Notifications).
+-Data network enhancements.
+-Updates to themes.
+-More Translations pt-br and tr.
+-Added VoLTE icon.
+-Added QS color support as accent.
+-Clock Widget Size Enhancements.
+-Added QS Caffeine, Reboot / Recovery and Screenshot.
+-Tab "About" added ".
+-TurboPower charging cradle.
+## Mido Changes ##
+- Updated to ToxycOS v3.0 
+- Kernel: switched to Baracuda kernel (Thanks for @NATO66613 for this)
+- Compiled with 7.0.0 clang 
+- Added balanced Eas config as deflaut 
+- Added spectrum support 
+- Added Suport for DTS Eagle HAL
+
+
 ### Build v2.0 20180707: ###
 -Android 8.1.0_r41
 -July security patch
