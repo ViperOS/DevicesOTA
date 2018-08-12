@@ -210,15 +210,14 @@
                   </rolex>
 
                   <mido>
-                           <maintainer>Dell Schulz (Dark_LordX)</maintainer>
+                           <maintainer>Joshua M. (Joshua_M)</maintainer>
                            <devicename>Xiaomi Redmi Note 4 (Mido)</devicename>
-                           <filename>toxyc-mido-20180707-v2.0-OFFICIAL</filename>
+                           <filename>toxyc-mido-20180812-v3.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=5862345805528041735</download>
+                           <download>https://sourceforge.net/projects/toxycos/files/mido/</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-toxycos-redmi-note-4x-t3806878</forum>
-                           <telegram>https://t.me/Dark_lordX</telegram>
+                           <telegram>https://t.me/Joshua_M</telegram>
                   </mido>
 
                   <natrium>
