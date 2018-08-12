@@ -16,6 +16,10 @@ ToxycOS ROM:
 › Added QS Caffeine, Reboot / Recovery and Screenshot.
 › Tab "About" added ".
 › TurboPower charging cradle.
+› Added volte for all carriers
+› Added Codex Updator
+› Building with Clang7
+› Added 1+3 doze
 
 
 Changelog version 2.0!
