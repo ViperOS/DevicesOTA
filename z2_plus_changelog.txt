@@ -1,3 +1,23 @@
+Build v3.0 20180813
+August Security Patch.
+Updated all GZOSP base source.
+Round system icons by default.
+Design improvements ToxycOS.
+Android P style volume panel.
+Rounded UI (Corners, QS, Notifications).
+Data network enhancements.
+Updates to themes.
+More Translations pt-br and tr.
+Added VoLTE icon.
+Added QS color support as accent.
+Clock Widget Size Enhancements.
+Added QS Caffeine, Reboot / Recovery and Screenshot.
+Tab "About" added.
+TurboPower charging cradle.
+Kernel Upstreamed To 3.18.118.
+Merged Latest Caf Tag 'LA.UM.6.6.r1-09500-89xx.0'.
+Other Minor Device Trees,Kernel and Vendor Changes.
+
 Build v2.0 20180707
 Android 8.1.0_r41
 July security patch
@@ -25,7 +45,6 @@ Fixed Low Volume
 Build v1.0 20180614
 APN Bug Fixed
 Scrolling improved
-Added VoLTE icon
 
 Build v1.0 20180611
 First Build
