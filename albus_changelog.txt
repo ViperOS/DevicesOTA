@@ -1,3 +1,14 @@
+# Build v3.0 20180813 #
+* Android 8.1.0_r43.
+* August Security Patch,
+* Updated all GZOSP base source,
+* Round system icons by default,
+* Android P style volume panel,
+* Rounded UI (Corners, QS, Notifications),
+* Updates to themes,
+* Added VoLTE icon;
+* Added batterysnap percentage.
+
 # Build v2.0 20180729 #
 * Fixed Wi-Fi issues;
 * Added improvements to the kernel from RADIUM-REBORN (Thanks KalilDev);
