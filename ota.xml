@@ -124,9 +124,9 @@
                   <dumpling>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5T (dumpling)</devicename>
-                           <filename>toxyc-dumpling-20180705-v2.0-OFFICIAL</filename>
+                           <filename>toxyc-dumpling-20180813-v3.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=5862345805528040709</download>
+                           <download>https://sourceforge.net/projects/toxycos/files/dumpling/toxyc-dumpling-20180813-v3.0-OFFICIAL.zip/download</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/oneplus-5t/development/rom-toxycos-oneplus-5t-t3802332</forum>
