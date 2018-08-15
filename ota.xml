@@ -73,9 +73,9 @@
                   <albus>
                            <maintainer>Bruno Rocha</maintainer>
                            <devicename>Motorola Moto Z2 Play (albus)</devicename>
-                           <filename>toxyc-albus-20180729-v2.0-OFFICIAL</filename>
+                           <filename>toxyc-albus-20180814-v3.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://sourceforge.net/projects/toxycos/files/albus/toxyc-albus-20180814-v3.0-OFFICIAL.zip/download</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/z2-play/development/rom-toxycos-moto-z2-play-t3810137</forum>
