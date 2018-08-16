@@ -235,9 +235,9 @@
                   <sagit>
                            <maintainer>Arian Keller (LMMFHHO)</maintainer>
                            <devicename>Xiaomi Mi 6 (Sagit)</devicename>
-                           <filename>toxyc-sagit-20180621-v.1.0-OFFICIAL</filename>
+                           <filename>toxyc-sagit-20180816-v.3.0-OFFICIAL</filename>
                            <buildtype>stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=746163614322273439</download>
+                           <download>https://sourceforge.net/projects/toxycos/files/sagit/</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/sagit_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/mi-6/development/rom-toxycos-v1-0-t3804882</forum>
