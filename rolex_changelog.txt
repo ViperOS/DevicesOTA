@@ -1,3 +1,17 @@
+Build v3.0 20180816:
+
+Merged: New Version of ToxycOS (v3.0);
+Merged: August Security Patch (8.1.0_r43);
+Increased: JPEG Quality in Pictures;
+Fixed: MTP (in some devices);
+Fixed: Headset Sound bug (When receive calls);
+Added: Spectrum Support;
+* Use Spectrum App [Root] and select Balance profile for better performance and battery *
+* Link: https://play.google.com/store/apps/details?id=org.frap129.spectrum&hl=pt_BR *
+* Install the Magisk firsly after install Spectrum *
+Merged: Optimization Profiles of Spectrum;
+(Thanks to Anoop1507, Anirudh Gupta and Aryan Patidar <3).
+
 Build v2.0 20180801:
 
 Reverted: New Vendor Blobs from tissot (Fixed RIL).
