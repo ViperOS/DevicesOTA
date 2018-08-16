@@ -1,1 +1,30 @@
 Changelog for Xiaomi Mi 6
+### Build v3.0 20180812: ###
+-August Security Patch.
+-Updated all GZOSP base source.
+-Round system icons by default.
+-Design improvements ToxycOS.
+-Android P style volume panel.
+-Rounded UI (Corners, QS, Notifications).
+-Data network enhancements.
+-Updates to themes.
+-More Translations pt-br and tr.
+-Added VoLTE icon.
+-Added QS color support as accent.
+-Clock Widget Size Enhancements.
+-Added QS Caffeine, Reboot / Recovery and Screenshot.
+-Tab "About" added ".
+-TurboPower charging cradle.
+### sagit changes ###
+New eucalyptus Kernel:
+Features:
+*Undervolt, Overclock, GPU step and GPU at higher bus
+*Frandom support
+*USB-FastCharge
+*Adreno idler
+*Adreno boost
+*Added CPU Governors alucardsched, darknesssched, energy_dcfc, helix_schedutil, pwrutilx and schedalucard
+*Added I/O scheduler noop, zen, fiops, sio, sioplus, tripndroid and maple
+*Dynamic schedtune
+*Fsync support
+*Control for sched features
