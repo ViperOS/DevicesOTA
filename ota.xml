@@ -257,15 +257,15 @@
                   </tissot>
 
                   <santoni>
-                           <maintainer>Jyotiraditya Panda</maintainer>
-                           <devicename>Xiaomi Redmi 4 (Santoni)</devicename>
-                           <filename>toxyc-santoni-20180628-v1.0-OFFICIAL</filename>
+                           <maintainer>Swapnil Soni (SwapnilSoni1999)</maintainer>
+                           <devicename>Xiaomi Redmi 4/4X (Santoni)</devicename>
+                           <filename>toxyc-santoni-20180818-v3.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://sourceforge.net/projects/toxycos/files/santoni/</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/santoni_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum></forum>
-                           <telegram>https://t.me/X_o_x_o_x_o_X</telegram>
+                           <forum>https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-toxycos-redmi-4-4x-t3830875</forum>
+                           <telegram>https://t.me/SoniSins</telegram>
                   </santoni>
 
                   <kenzo>
