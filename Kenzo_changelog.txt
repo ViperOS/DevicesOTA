@@ -1,0 +1,16 @@
+› August Security Patch.
+› Updated all GZOSP base source.
+› Round system icons by default.
+› Design improvements ToxycOS.
+› Android P style volume panel.
+› Rounded UI (Corners, QS, Notifications).
+› Data network enhancements.
+› Updates to themes.
+› More Translations pt-br and tr.
+› Added VoLTE icon.
+› Added QS color support as accent.
+› Clock Widget Size Enhancements.
+› Added QS Caffeine, Reboot / Recovery and Screenshot.
+› Tab "About" added ".
+› TurboPower charging cradle.
+>and some general changes in trees
