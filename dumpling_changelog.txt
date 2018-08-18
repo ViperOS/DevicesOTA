@@ -1,3 +1,10 @@
+### Build v3.1 20180818: ###
+- Fixed color in longpress notifications
+- Added new default wallpaper
+- LeanLauncher replaced for Lawnchair
+### Oneplus5T changes ###
+- Update kernel RedFlare 1.10
+
 ### Build v3.0 20180813: ###
 - August Security Patch
 - Updated all GZOSP base source
