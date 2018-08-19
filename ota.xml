@@ -259,7 +259,7 @@
                   <santoni>
                            <maintainer>Swapnil Soni (SwapnilSoni1999)</maintainer>
                            <devicename>Xiaomi Redmi 4/4X (Santoni)</devicename>
-                           <filename>toxyc-santoni-20180818-v3.0-OFFICIAL</filename>
+                           <filename>toxyc-santoni-20180819-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
                            <download>https://sourceforge.net/projects/toxycos/files/santoni/</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/santoni_changelog.txt</changelog>
