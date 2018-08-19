@@ -1,3 +1,9 @@
+### Build v3.1 20180819 ###
+-Fixed color in longpress notification.
+-Added New default wallpaper.
+-LeanLauncher replaced for Lawnchair v1 final.
+
+
 ### Build v3.0 20180812: ###
 -August Security Patch.
 -Updated all GZOSP base source.
