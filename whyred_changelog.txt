@@ -1,4 +1,12 @@
 ToxycOS ROM:
+ Changelog version 3.1!
+
+› Fixed color in longpress notification.
+› Added New default wallpaper.
+› LeanLauncher replaced for Lawnchair v1 final.
+› Codex Kernel Updated
+› Codex Updator fixed
+ 
  Changelog version 3.0!
 
 › August Security Patch.

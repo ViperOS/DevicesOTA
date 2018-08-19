@@ -295,9 +295,9 @@
                   <whyred>
                            <maintainer>Ayan Uchiha Choudhury</maintainer>
                            <devicename>Redmi Note 5 (whyred)</devicename>
-                           <filename>toxyc-whyred-20180812-v3.0-OFFICIAL</filename>
+                           <filename>toxyc-whyred-20180819-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/whyred/toxyc-whyred-20180812-v3.0-OFFICIAL.zip/download</download>
+                           <download>https://sourceforge.net/projects/toxycos/files/whyred/toxyc-whyred-20180819-v3.1-OFFICIAL.zip/download</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/whyred_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/redmi-note-5-pro/development/unofficial-toxyc-os-t3819333</forum>
