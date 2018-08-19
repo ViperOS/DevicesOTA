@@ -212,9 +212,9 @@
                   <mido>
                            <maintainer>Joshua M. (Joshua_M)</maintainer>
                            <devicename>Xiaomi Redmi Note 4 (Mido)</devicename>
-                           <filename>toxyc-mido-20180812-v3.0-OFFICIAL</filename>
+                           <filename>toxyc-mido-20180819-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/mido/</download>
+                           <download>https://iweb.dl.sourceforge.net/project/toxycos/mido/toxyc-mido-20180819-v3.1-OFFICIAL.zip</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <telegram>https://t.me/Joshua_M</telegram>
