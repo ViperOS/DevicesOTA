@@ -112,9 +112,9 @@
                   <cheeseburger>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5 (cheeseburger)</devicename>
-                           <filename>toxyc-cheeseburger-20180617-v1.0-OFFICIAL</filename>
+                           <filename>toxyc-cheeseburger-20180818-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=962339331459000908</download>
+                           <download>https://ufpr.dl.sourceforge.net/project/toxycos/cheeseburger/toxyc-cheeseburger-20180818-v3.1-OFFICIAL.zip</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/cheeseburger_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/oneplus-5/development/rom-toxycos-oneplus-5-t3802367</forum>
