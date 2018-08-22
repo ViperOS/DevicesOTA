@@ -1,3 +1,10 @@
+Build v3.1 20180822
+Fixed color in longpress notification.
+Added New default wallpaper.
+LeanLauncher replaced for Lawnchair v1 final.
+Kernel Upstreamed To 3.18.119.
+thermal-engine.conf Updated With Custom Values.
+
 Build v3.0 20180813
 August Security Patch.
 Updated all GZOSP base source.
