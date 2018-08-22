@@ -1,3 +1,9 @@
+Build v3.1 20180822:
+
+Merged: New Version of ToxycOS (v3.1);
+Merged: Cleanup audio flags and props (Increase Audio);
+Removed: LTE lines in system.prop (Unnecessary and Broken LTE).
+
 Build v3.0 20180816:
 
 Merged: New Version of ToxycOS (v3.0);
