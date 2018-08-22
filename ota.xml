@@ -19,7 +19,7 @@
                   <z2_plus>
                            <maintainer>Yash Karande (cyproto)</maintainer>
                            <devicename>Lenovo Zuk Z2 Plus (z2_plus)</devicename>
-                           <filename>toxyc-z2_plus-20180813-v3.0-OFFICIAL</filename>
+                           <filename>toxyc-z2_plus-20180822-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
                            <download>https://sourceforge.net/projects/toxycos/files/z2_plus/</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/z2_plus_changelog.txt</changelog>
