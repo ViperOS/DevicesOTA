@@ -200,9 +200,9 @@
                   <rolex>
                            <maintainer>Erik Garcia (ECr34T1v3)</maintainer>
                            <devicename>Xiaomi Redmi 4A (rolex)</devicename>
-                           <filename>toxyc-rolex-20180816-v3.0-OFFICIAL</filename>
+                           <filename>toxyc-rolex-20180822-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/rolex/</download>
+                           <download>https://ufpr.dl.sourceforge.net/project/toxycos/rolex/toxyc-rolex-20180822-v3.1-OFFICIAL.zip</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/rolex_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/redmi-4a/development/rom-toxycos-redmi-4a-5a-t3802457</forum>
