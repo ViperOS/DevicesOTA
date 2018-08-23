@@ -1,4 +1,9 @@
-› August Security Patch.
+#Build v3.1 20180813
+› Fixed color in longpress notification.
+› Added New default wallpaper.
+› LeanLauncher replaced for Lawnchair v1 final.
+#Build v3.0 20180815
+›August Security Patch.
 › Updated all GZOSP base source.
 › Round system icons by default.
 › Design improvements ToxycOS.
