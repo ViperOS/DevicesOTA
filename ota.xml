@@ -271,7 +271,7 @@
                   <kenzo>
                            <maintainer>pratik pithore (death_note27)</maintainer>
                            <devicename>Xiaomi Redmi Note 3 (kenzo)</devicename>
-                           <filename>kenzo/toxyc-kenzo-20180823-v3.1-OFFICIAL</filename>
+                           <filename>toxyc-kenzo-20180823-v3.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
                            <download>https://sourceforge.net/projects/toxycos/files/kenzo/toxyc-kenzo-20180823-v3.1-OFFICIAL.zip/download</download>
                            <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/Kenzo_changelog.txt</changelog>
