@@ -93,6 +93,18 @@
                            <forum></forum>
                            <telegram>https://t.me/ZJRDroid</telegram>
                   </osprey>
+
+                  <potter>
+                           <maintainer>iCodeLife</maintainer>
+                           <devicename>Motorola Moto G5 Plus (potter)</devicename>
+                           <filename>toxyc-potter-20180819-v3.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://sourceforge.net/projects/toxycos/files/potter/toxyc-potter-20180819-v3.1-OFFICIAL.zip/download
+                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/potter_changelog.txt
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/itsicode</telegram>
+                  </potter>
          </manufacturer>
 
 <!-- ONEPLUS -->
