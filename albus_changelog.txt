@@ -1,3 +1,10 @@
+# Build v3.1 20180824 #
+* Fixed color in longpress notification.
+* Fixed batterysnap efficiency mode and charge control.
+* Migrated to msm8996 kernel (Thanks Rahul S Nair).
+* Imported some Nash blobs (Thanks Rahul S Nair).
+
+
 # Build v3.0 20180813 #
 * Android 8.1.0_r43.
 * August Security Patch,
