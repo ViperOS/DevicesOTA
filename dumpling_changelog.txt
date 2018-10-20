@@ -1,3 +1,8 @@
+### Build v5.0 Retourn ViperOS Oreo 8.1: ###
+
+### Build v4.0 is ViperOS: ###
+- Is AOSVP 8.0 dont released for anymore
+
 ### Build v3.1 20180818: ###
 - Fixed color in longpress notifications
 - Added new default wallpaper

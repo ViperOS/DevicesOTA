@@ -1,5 +1,1 @@
-Build 11/07/2018
-
-*Fixed low audio issue
-*Fixed echo sounds
-*Kernel upstreamed to 3.10.108
+### Build v5.0 Retourn ViperOS Oreo 8.1: ###

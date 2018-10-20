@@ -1,7 +1,0 @@
-August Patch.
-Added Blaziken Kernel
-Fixed Ril Related Issue 
-Imoroved Network
-Fixed Battery Drain Issue
-Bump To Version 3.1
-Added Hardware Key Remapping.

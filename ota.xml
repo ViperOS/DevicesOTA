@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-      Copyright (C) 2018 ToxycOS Project
+      Copyright (C) 2018 ViperOS Project
       
       Licensed under the Apache License, Version 2.0 (the "License");
       you may not use this file except in compliance with the License.
@@ -14,307 +14,144 @@
 -->
 <OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 
-<!-- LENOVO -->
-         <manufacturer id="Lenovo">
-                  <z2_plus>
-                           <maintainer>Yash Karande (cyproto)</maintainer>
-                           <devicename>Lenovo Zuk Z2 Plus (z2_plus)</devicename>
-                           <filename>toxyc-z2_plus-20180822-v3.1-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/z2_plus/</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/z2_plus_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-toxycos-1-0-t3802629</forum>
-                           <telegram>https://t.me/cyproto</telegram>
-                  </z2_plus>
-
-                  <A6020>
-                           <maintainer>Chaitanaya Mittal (Professional_Guider)</maintainer>
-                           <devicename>Lenovo Vibe K5/K5+ (A6020)</devicename>
-                           <filename>toxyc-A6020-20180823-v3.1-OFFICIAL.zip</filename>
-                           <buildtype>stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/a6020/toxyc-A6020-20180823-v3.1-OFFICIAL.zip/download</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/A6020_changelog.txt</changelog>
-                           <gapps>https://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/k5-plus/development/rom-r30-toxyc-os-v1-0-lenovo-vibe-k5-k5-t3802812</forum>
-                           <telegram>https://t.me/Professional_Guider</telegram>
-                  </A6020>
-         </manufacturer>
-
-<!-- LEECO -->
-         <manufacturer id="LeEco">
-                  <zl1>
-                           <maintainer>Jakub Frelik (Quavosh)</maintainer>
-                           <devicename>Le Pro 3</devicename>
-                           <filename>toxyc-zl1-20180621-v1.0-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://bit.ly/2IaRgkA</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/zl1_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://bit.ly/2lmxNEL</forum>
-                           <telegram>https://t.me/quavosh</telegram>
-                  </zl1>
-         </manufacturer>
-
 <!-- MOTOROLA -->
          <manufacturer id="Motorola">
                   <surnia>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Motorola Moto E 2015 LTE (surnia)</devicename>
-                           <filename>toxyc-surnia-20180708-v2.0-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=5862345805528043242</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/surnia_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/moto-e-2015/development/rom-toxycos-moto-e-2015-lte-t3802403</forum>
-                           <telegram></telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </surnia>
 
                   <albus>
                            <maintainer>Bruno Rocha</maintainer>
                            <devicename>Motorola Moto Z2 Play (albus)</devicename>
-                           <filename>toxyc-albus-20180824-v3.1-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/albus/toxyc-albus-20180824-v3.1-OFFICIAL.zip/download</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/z2-play/development/rom-toxycos-moto-z2-play-t3810137</forum>
-                           <telegram>https://t.me/toxyc_albus_testers</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </albus>
 
                   <osprey>
-                           <maintainer>Zilberto Junior (ZJRDroid)</maintainer>
+                           <maintainer>Jonathan Bruno (JBCDroid)</maintainer>
                            <devicename>Motorola Moto G 2015 (osprey)</devicename>
-                           <filename>toxyc-osprey-20180711-v2.0-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=5862345805528045952</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/osprey_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/ZJRDroid</telegram>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </osprey>
-
-                  <potter>
-                           <maintainer>iCodeLife</maintainer>
-                           <devicename>Motorola Moto G5 Plus (potter)</devicename>
-                           <filename>toxyc-potter-20180819-v3.1-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/potter/toxyc-potter-20180819-v3.1-OFFICIAL.zip/download
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/potter_changelog.txt
-                           <gapps>http://opengapps.org</gapps>
-                           <forum></forum>
-                           <telegram>https://t.me/itsicode</telegram>
-                  </potter>
          </manufacturer>
 
 <!-- ONEPLUS -->
          <manufacturer id="Oneplus">
                   <oneplus3>
                            <maintainer>Rkschunk</maintainer>
-                           <devicename>Oneplus 3 (oneplus3)</devicename>
-                           <filename>toxyc-oneplus3-20180715-v2.0-OFFICIAL</filename>
+                           <devicename>Oneplus 3/T (oneplus3)</devicename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=5862345805528049559</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/oneplus3_changelog.txt</changelog>
-                           <gapps>https://androidfilehost.com/?fid=5862345805528044548</gapps>
-                           <forum>https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-toxycos-1-0-oneplus-3-3t-t3802340</forum>
-                           <telegram>https://t.me/toxycos_chat</telegram>
+                           <download></download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </oneplus3>
 
                   <cheeseburger>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5 (cheeseburger)</devicename>
-                           <filename>toxyc-cheeseburger-20180818-v3.1-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://ufpr.dl.sourceforge.net/project/toxycos/cheeseburger/toxyc-cheeseburger-20180818-v3.1-OFFICIAL.zip</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/cheeseburger_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/oneplus-5/development/rom-toxycos-oneplus-5-t3802367</forum>
-                           <telegram>https://t.me/toxycos_chat</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </cheeseburger>
 
                   <dumpling>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5T (dumpling)</devicename>
-                           <filename>toxyc-dumpling-20180818-v3.1-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/dumpling/toxyc-dumpling-20180818-v3.1-OFFICIAL.zip/download</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/oneplus-5t/development/rom-toxycos-oneplus-5t-t3802332</forum>
-                           <telegram>https://t.me/toxycos_chat</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </dumpling>
-         </manufacturer>
-
-<!-- SAMSUNG -->
-         <manufacturer id="Samsung">
-                  <j5lte>
-                           <maintainer>Jonathan Bruno (JBCDroid)</maintainer>
-                           <devicename>Samsung Galaxy J5 2015 (j5lte)</devicename>
-                           <filename>toxyc-j5lte-20180709-v2.0-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=890278863836290993</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j5lte_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/galaxy-j5/development/rom-toxycos-1-0-t3802863</forum>
-                           <telegram>https://t.me/JBCDroid_Tox</telegram>
-                  </j5lte>
-
-                  <j53gxx>
-                           <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
-                           <devicename>Samsung Galaxy J5 2015 3G (j53gxx)</devicename>
-                           <filename>toxyc-j53gxx-20180721-v2.0-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=5862345805528054600</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j53gxx_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <telegram></telegram>
-                  </j53gxx>
-
-                  <j5nlte>
-                           <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
-                           <devicename>Samsung Galaxy J5 2015 NFC (j5nlte)</devicename>
-                           <filename>toxyc-j5nlte-20180721-v2.0-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=5862345805528055056</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/j5nlte_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <telegram></telegram>
-                  </j5nlte>
          </manufacturer>
 
 <!-- XIAOMI -->
          <manufacturer id="Xiaomi">
-                  <capricorn>
-                           <maintainer>Henrique Pereira (Hlcpereira)</maintainer>
-                           <devicename>Xiaomi Mi 5s (Capricorn)</devicename>
-                           <filename>toxyc-capricorn-20180708-v2.0-OFFICIAL</filename>
-                           <buildtype>stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=5862345805528047024</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/capricorn_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/mi-5s/development/rom-toxycos-v1-0-t3803875</forum>
-                           <telegram>https://t.me/Hlcpereira</telegram>
-                  </capricorn>
-
-                  <gemini>
-                           <maintainer>Henrique Pereira (Hlcpereira)</maintainer>
-                           <devicename>Xiaomi Mi 5 (Gemini)</devicename>
-                           <filename>toxyc-gemini-20180710-v2.0-OFFICIAL</filename>
-                           <buildtype>stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=5862345805528047020</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/gemini_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/mi-5/development/rom-toxycos-v1-0-t3806012</forum>
-                           <telegram>https://t.me/Hlcpereira</telegram>
-                  </gemini>
-
                   <rolex>
                            <maintainer>Erik Garcia (ECr34T1v3)</maintainer>
                            <devicename>Xiaomi Redmi 4A (rolex)</devicename>
-                           <filename>toxyc-rolex-20180822-v3.1-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://ufpr.dl.sourceforge.net/project/toxycos/rolex/toxyc-rolex-20180822-v3.1-OFFICIAL.zip</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/rolex_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/redmi-4a/development/rom-toxycos-redmi-4a-5a-t3802457</forum>
-                           <telegram>https://t.me/ECr34T1v3</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </rolex>
 
                   <mido>
                            <maintainer>Joshua M. (Joshua_M)</maintainer>
                            <devicename>Xiaomi Redmi Note 4 (Mido)</devicename>
-                           <filename>toxyc-mido-20180819-v3.1-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://iweb.dl.sourceforge.net/project/toxycos/mido/toxyc-mido-20180819-v3.1-OFFICIAL.zip</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <telegram>https://t.me/Joshua_M</telegram>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </mido>
-
-                  <natrium>
-                           <maintainer>Hlcpereira (Hlcpereira)</maintainer>
-                           <devicename>Xiaomi Mi 5s Plus (Natrium)</devicename>
-                           <filename>toxyc-natrium-20180712-v2.0-OFFICIAL</filename>
-                           <buildtype>stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=5862345805528047026</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/natrium_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/mi-5s-plus/development/rom-toxycos-v1-0-t3804242</forum>
-                           <telegram>https://t.me/Hlcpereira</telegram>
-                  </natrium>
 
                   <sagit>
                            <maintainer>Arian Keller (LMMFHHO)</maintainer>
                            <devicename>Xiaomi Mi 6 (Sagit)</devicename>
-                           <filename>toxyc-sagit-20180816-v.3.0-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/sagit/</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/sagit_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/mi-6/development/rom-toxycos-v1-0-t3804882</forum>
-                           <telegram>https://t.me/ArianK16a</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </sagit>
-
-                  <tissot>
-                           <maintainer>Abhinav Gupta  (Agrd1129)</maintainer>
-                           <devicename>Mi A1 (tissot)</devicename>
-                           <filename>toxyc-tissot-20180622-v1.0-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=890278863836296227</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/tissot_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/showthread.php?t=3807493</forum>
-                           <telegram>https://t.me/agrd1129</telegram>
-                  </tissot>
 
                   <santoni>
                            <maintainer>Swapnil Soni (SwapnilSoni1999)</maintainer>
                            <devicename>Xiaomi Redmi 4/4X (Santoni)</devicename>
-                           <filename>toxyc-santoni-20180819-v3.1-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/santoni/</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/santoni_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-toxycos-redmi-4-4x-t3830875</forum>
-                           <telegram>https://t.me/SoniSins</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </santoni>
-
-                  <kenzo>
-                           <maintainer>pratik pithore (death_note27)</maintainer>
-                           <devicename>Xiaomi Redmi Note 3 (kenzo)</devicename>
-                           <filename>toxyc-kenzo-20180823-v3.1-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/kenzo/toxyc-kenzo-20180823-v3.1-OFFICIAL.zip/download</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/Kenzo_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/redmi-note-3/development/rom-toxycos-redmi-note3-t3804567</forum>
-                           <telegram>https://t.me/death_note27</telegram>
-                  </kenzo>
 
                   <vince>
                            <maintainer>Raj Kale (Rajkale99)</maintainer>
                            <devicename>Redmi 5 Plus (vince)</devicename>
-                           <filename>toxyc-vince-20180706-v2.0-OFFICIAL</filename>
+                           <filename></filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=5862345805528041404</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/vince_changelog.txt</changelog>
+                           <download></download>
+                           <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/redmi-note-5/development/rom-toxyc-os-t3813244</forum>
-                           <telegram>https://t.me/toxycos</telegram>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
                   </vince>
-
-                  <whyred>
-                           <maintainer>Ayan Uchiha Choudhury</maintainer>
-                           <devicename>Redmi Note 5 (whyred)</devicename>
-                           <filename>toxyc-whyred-20180819-v3.1-OFFICIAL</filename>
-                           <buildtype>Stable</buildtype>
-                           <download>https://sourceforge.net/projects/toxycos/files/whyred/toxyc-whyred-20180819-v3.1-OFFICIAL.zip/download</download>
-                           <changelog>https://raw.githubusercontent.com/ToxycOS/DevicesOTA/oreo-mr1/whyred_changelog.txt</changelog>
-                           <gapps>http://opengapps.org</gapps>
-                           <forum>https://forum.xda-developers.com/redmi-note-5-pro/development/unofficial-toxyc-os-t3819333</forum>
-                           <telegram>https://t.me/toxycos</telegram>
-                  </whyred>
          </manufacturer>
 
 </OTA>
