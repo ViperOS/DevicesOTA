@@ -25,7 +25,7 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </surnia>
 
                   <albus>
@@ -37,7 +37,7 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </albus>
 
                   <osprey>
@@ -49,8 +49,20 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </osprey>
+
+                  <cedric>
+                           <maintainer>Zilberto Junior (ZJRDroid)</maintainer>
+                           <devicename>Motorola Moto G5 (cedric)</devicename>
+                           <filename></filename>
+                           <buildtype>Stable</buildtype>
+                           <download></download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_news</telegram>
+                  </cedric>
          </manufacturer>
 
 <!-- ONEPLUS -->
@@ -64,7 +76,7 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </oneplus3>
 
                   <cheeseburger>
@@ -76,19 +88,19 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </cheeseburger>
 
                   <dumpling>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5T (dumpling)</devicename>
-                           <filename></filename>
+                           <filename>Viper-dumpling-20181113-v5.0-OFFICIAL.zip</filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </dumpling>
          </manufacturer>
 
@@ -114,7 +126,7 @@
                            <download></download>
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </mido>
 
                   <sagit>
@@ -126,7 +138,7 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </sagit>
 
                   <santoni>
@@ -138,7 +150,7 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </santoni>
 
                   <vince>
@@ -150,7 +162,7 @@
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
-                           <telegram>https://t.me/viperos_chat</telegram>
+                           <telegram>https://t.me/viperos_news</telegram>
                   </vince>
          </manufacturer>
 
