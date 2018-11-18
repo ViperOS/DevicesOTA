@@ -94,7 +94,7 @@
                   <dumpling>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5T (dumpling)</devicename>
-                           <filename>Viper-dumpling-20181113-v5.0-OFFICIAL.zip</filename>
+                           <filename>Viper-dumpling-20181118-v5.0-OFFICIAL.zip</filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
