@@ -34,19 +34,19 @@
                            <filename></filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
-                           <changelog></changelog>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </albus>
 
                   <osprey>
-                           <maintainer>Jonathan Bruno (JBCDroid)</maintainer>
+                           <maintainer>Kley (Kley76)</maintainer>
                            <devicename>Motorola Moto G 2015 (osprey)</devicename>
                            <filename></filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
-                           <changelog></changelog>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/osprey_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
@@ -58,7 +58,7 @@
                            <filename></filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
-                           <changelog></changelog>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/cedric_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
@@ -85,7 +85,7 @@
                            <filename></filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
-                           <changelog></changelog>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/cheeseburger_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
@@ -97,7 +97,7 @@
                            <filename>Viper-dumpling-20181113-v5.0-OFFICIAL.zip</filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
-                           <changelog></changelog>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
@@ -124,7 +124,7 @@
                            <filename></filename>
                            <buildtype>Stable</buildtype>
                            <download></download>
-                           <changelog></changelog>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <telegram>https://t.me/viperos_news</telegram>
                   </mido>
