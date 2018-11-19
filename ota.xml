@@ -14,6 +14,21 @@
 -->
 <OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 
+<!-- LENOVO -->
+         <manufacturer id="Lenovo">
+                  <z2_plus>
+                           <maintainer>Cyproto</maintainer>
+                           <devicename>Lenovo Zuk Z2 Plus (z2_plus)</devicename>
+                           <filename></filename>
+                           <buildtype>Stable</buildtype>
+                           <download></download>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/z2_plus_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_news</telegram>
+                  </z2_plus>
+         </manufacturer>
+
 <!-- MOTOROLA -->
          <manufacturer id="Motorola">
                   <surnia>
@@ -63,6 +78,18 @@
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </cedric>
+
+                  <potter>
+                           <maintainer>TheNewGuyHere</maintainer>
+                           <devicename>Motorola Moto G5 Plus (potter)</devicename>
+                           <filename></filename>
+                           <buildtype>Stable</buildtype>
+                           <download></download>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/potter_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_news</telegram>
+                  </potter>
          </manufacturer>
 
 <!-- ONEPLUS -->
@@ -164,6 +191,18 @@
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </vince>
+
+                  <whyred>
+                           <maintainer>Ayan Uchila Choudhury</maintainer>
+                           <devicename>Redmi Note 5 (whyred)</devicename>
+                           <filename></filename>
+                           <buildtype>Stable</buildtype>
+                           <download></download>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/whyred_changelog.txt</changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_news</telegram>
+                  </whyred>
          </manufacturer>
 
 </OTA>
