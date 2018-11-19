@@ -19,9 +19,9 @@
                   <z2_plus>
                            <maintainer>Cyproto</maintainer>
                            <devicename>Lenovo Zuk Z2 Plus (z2_plus)</devicename>
-                           <filename></filename>
+                           <filename>Viper-z2_plus-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853065</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/z2_plus_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
@@ -46,9 +46,9 @@
                   <albus>
                            <maintainer>Bruno Rocha</maintainer>
                            <devicename>Motorola Moto Z2 Play (albus)</devicename>
-                           <filename></filename>
+                           <filename>Viper-albus-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853344</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/albus_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
@@ -58,9 +58,9 @@
                   <osprey>
                            <maintainer>Kley (Kley76)</maintainer>
                            <devicename>Motorola Moto G 2015 (osprey)</devicename>
-                           <filename></filename>
+                           <filename>Viper-osprey-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://www.androidfilehost.com/?fid=11410963190603853193</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/osprey_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
@@ -70,9 +70,9 @@
                   <cedric>
                            <maintainer>Zilberto Junior (ZJRDroid)</maintainer>
                            <devicename>Motorola Moto G5 (cedric)</devicename>
-                           <filename></filename>
+                           <filename>Viper-cedric-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853062</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/cedric_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
@@ -82,9 +82,9 @@
                   <potter>
                            <maintainer>TheNewGuyHere</maintainer>
                            <devicename>Motorola Moto G5 Plus (potter)</devicename>
-                           <filename></filename>
+                           <filename>Viper-potter-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853061</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/potter_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
@@ -109,24 +109,24 @@
                   <cheeseburger>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5 (cheeseburger)</devicename>
-                           <filename></filename>
+                           <filename>Viper-cheeseburger-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853239</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/cheeseburger_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum></forum>
+                           <forum>https://forum.xda-developers.com/oneplus-5/development/rom-viperos-project-oneplus-5-t3868811</forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </cheeseburger>
 
                   <dumpling>
                            <maintainer>Esrom Cattaneo (EsromTech)</maintainer>
                            <devicename>Oneplus 5T (dumpling)</devicename>
-                           <filename>Viper-dumpling-20181118-v5.0-OFFICIAL.zip</filename>
+                           <filename>Viper-dumpling-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853202</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/dumpling_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum></forum>
+                           <forum>https://forum.xda-developers.com/oneplus-5t/development/rom-viperos-project-oneplus-5t-t3868807</forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </dumpling>
          </manufacturer>
@@ -148,9 +148,9 @@
                   <mido>
                            <maintainer>Joshua M. (Joshua_M)</maintainer>
                            <devicename>Xiaomi Redmi Note 4 (Mido)</devicename>
-                           <filename></filename>
+                           <filename>Viper-mido-20181117-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603852613</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <telegram>https://t.me/viperos_news</telegram>
@@ -195,9 +195,9 @@
                   <whyred>
                            <maintainer>Ayan Uchila Choudhury</maintainer>
                            <devicename>Redmi Note 5 (whyred)</devicename>
-                           <filename></filename>
+                           <filename>Viper-whyred-20181118-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
+                           <download>https://androidfilehost.com/?fid=11410963190603853656</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/whyred_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
