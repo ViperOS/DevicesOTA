@@ -1,0 +1,7 @@
+ToxycOS Build v5.0 20181123
+
+Changelog:
+
+-Initial Build
+-Merged: November Security Patch (8.1.0_r50)
+-Fixed: Charger Offline
