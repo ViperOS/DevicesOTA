@@ -150,11 +150,11 @@
          <manufacturer id="Xiaomi">
                   <rolex>
                            <maintainer>Erik Garcia (ECr34T1v3)</maintainer>
-                           <devicename>Xiaomi Redmi 4A (rolex)</devicename>
-                           <filename></filename>
+                           <devicename>Xiaomi Redmi 4A/5A (rolex/riva)</devicename>
+                           <filename>Viper-rolex-20181123-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download></download>
-                           <changelog></changelog>
+                           <download>https://androidfilehost.com/?fid=11410963190603856727</download>
+                           <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/rolex_riva_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_chat</telegram>
