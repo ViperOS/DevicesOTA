@@ -144,6 +144,78 @@
                            <forum></forum>
                            <telegram>https://t.me/viperos_chat</telegram>
                   </on7xelte>
+               
+                  <klte>
+                           <maintainer>Bruno (Brunowp8)</maintainer>
+                           <devicename>Galaxy S5 (klte)</devicename>
+                           <filename>Viper-klte-20181209-v5.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=11410963190603871643</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/galaxy-s5/unified-development/rom-8-1-0r50viperos-v5-0-klte-variants-t3871022</forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
+                  </klte>
+               
+                  <kltechn>
+                           <maintainer>Bruno (Brunowp8)</maintainer>
+                           <devicename>Galaxy S5 (kltechn)</devicename>
+                           <filename>Viper-kltechn-20181210-v5.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=11410963190603871648</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/galaxy-s5/unified-development/rom-8-1-0r50viperos-v5-0-klte-variants-t3871022</forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
+                  </kltechn>
+               
+                  <kltechnduo>
+                           <maintainer>Bruno (Brunowp8)</maintainer>
+                           <devicename>Galaxy S5 (kltechnduo)</devicename>
+                           <filename>Viper-kltechnduo-20181210-v5.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=11410963190603871650</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/galaxy-s5/unified-development/rom-8-1-0r50viperos-v5-0-klte-variants-t3871022</forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
+                  </kltechnduo>
+               
+                  <klteduos>
+                           <maintainer>Bruno (Brunowp8)</maintainer>
+                           <devicename>Galaxy S5 (klteduos)</devicename>
+                           <filename>Viper-klteduos-20181210-v5.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=11410963190603871658</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/galaxy-s5/unified-development/rom-8-1-0r50viperos-v5-0-klte-variants-t3871022</forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
+                  </klteduos>
+               
+                  <kltedv>
+                           <maintainer>Bruno (Brunowp8)</maintainer>
+                           <devicename>Galaxy S5 (kltedv)</devicename>
+                           <filename>Viper-kltedv-20181210-v5.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=11410963190603871652</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/galaxy-s5/unified-development/rom-8-1-0r50viperos-v5-0-klte-variants-t3871022</forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
+                  </kltedv>
+               
+                  <kltekor>
+                           <maintainer>Bruno (Brunowp8)</maintainer>
+                           <devicename>Galaxy S5 (kltekor)</devicename>
+                           <filename>Viper-kltekor-20181210-v5.1-OFFICIAL</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://androidfilehost.com/?fid=11410963190603871656</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/galaxy-s5/unified-development/rom-8-1-0r50viperos-v5-0-klte-variants-t3871022</forum>
+                           <telegram>https://t.me/viperos_chat</telegram>
+                  </kltekor>
          </manufacturer>
 
 <!-- XIAOMI -->
