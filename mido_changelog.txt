@@ -1,1 +1,12 @@
 ### Build v5.0 Retourn ViperOS Oreo 8.1: ###
+
+
+Changelog Viper 5.1 version: 
+-Update source base LineageOS
+-December security patch
+-Android 8.1.0_r52
+-Added icon VoLTE
+-Remove upper left X icon on mobile signal.
+
+Changelog device: 
+Kernel changed to Englezos (thanks @penglezos)
