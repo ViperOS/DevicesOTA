@@ -220,15 +220,15 @@
                            <telegram>https://t.me/viperos_news</telegram>
                   </whyred>
 
-                  <rosy>
+                   <rosy>
                            <maintainer>ShreeJoy Dash</maintainer>
                            <devicename>Redmi 5 (rosy)</devicename>
-                           <filename>Viper-rosy-20181121-v5.0-OFFICIAL</filename>
+                           <filename>Viper-rosy-20181210-v5.1-OFFICIAL.zip</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=11410963190603855017</download>
+                           <download>https://www.androidfilehost.com/?fid=11410963190603871406</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/rosy_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
-                           <forum></forum>
+                           <forum>https://forum.xda-developers.com/redmi-5/development/rom-viper-os-5-0-oreo-t3869870</forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </rosy>
          </manufacturer>
