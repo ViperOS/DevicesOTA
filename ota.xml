@@ -163,11 +163,12 @@
                   <mido>
                            <maintainer>Joshua M. (Joshua_M)</maintainer>
                            <devicename>Xiaomi Redmi Note 4 (Mido)</devicename>
-                           <filename>Viper-mido-20181117-v5.0-OFFICIAL</filename>
+                           <filename>Viper-mido-20181209-v5.1-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://androidfilehost.com/?fid=11410963190603852613</download>
+                           <download>https://androidfilehost.com/?fid=11410963190603871044</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/mido_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
+                           <forum>https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-viperos-project-redmi-note-4-t3868882/post78198844#post78198844</forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </mido>
 
