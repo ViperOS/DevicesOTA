@@ -6,3 +6,15 @@ Changelog Viper 5.1 version:
 -Android 8.1.0_r52
 -Added icon VoLTE
 -Remove upper left X icon on mobile signal.
+
+Device Changelogs for 14/12/2018
+-Added Dual 4G support
+-Added Dual VOlte Support
+-Faster and smother experience
+-Increased the speed of Fingerprint Sensor response
+-Improved performace
+-Updated with miui oreo blobs
+-Added oreo firmware 
+
+Short Note:-
+This build will be much better and improved than the previous ones, I hpe you like it, One thing to note Aftr flashing this Build if you flash any older builds you Fingerprint will start giving issues to fix it flash official Miui nougat rom
