@@ -314,7 +314,19 @@
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
                            <telegram>https://t.me/viperos_news</telegram>
-                  </markw>               
+                  </markw>
+
+                  <land>
+                           <maintainer>Sushant</maintainer>
+                           <devicename>Redmi 3S (land)</devicename>
+                           <filename>Viper-land-20181216-v5.1-OFFICIAL.zip</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://www.androidfilehost.com/?fid=11410963190603876166</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_news</telegram>
+                  </land>               
          </manufacturer>
 
 </OTA>
