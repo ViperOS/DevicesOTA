@@ -303,6 +303,18 @@
                            <forum>https://forum.xda-developers.com/redmi-5/development/rom-viper-os-5-0-oreo-t3869870</forum>
                            <telegram>https://t.me/viperos_news</telegram>
                   </rosy>
+
+                  <markw>
+                           <maintainer>DarkAngelGR</maintainer>
+                           <devicename>Redmi 4 Prime (markw)</devicename>
+                           <filename>Viper-markw-20190117-v5.2-OFFICIAL.zip</filename>
+                           <buildtype>Stable</buildtype>
+                           <download>https://www.androidfilehost.com/?fid=11410963190603902672</download>
+                           <changelog></changelog>
+                           <gapps>http://opengapps.org</gapps>
+                           <forum></forum>
+                           <telegram>https://t.me/viperos_news</telegram>
+                  </markw>               
          </manufacturer>
 
 </OTA>
