@@ -221,7 +221,7 @@
 <!-- XIAOMI -->
          <manufacturer id="Xiaomi">
                   <rolex>
-                           <maintainer>Erik Garcia (ECr34T1v3)</maintainer>
+                           <maintainer>Eko Sugiharto</maintainer>
                            <devicename>Xiaomi Redmi 4A/5A (rolex/riva)</devicename>
                            <filename>Viper-rolex-20181123-v5.0-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
