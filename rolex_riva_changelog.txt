@@ -2,6 +2,14 @@ ToxycOS Build v5.0 20181123
 
 Changelog:
 
--Initial Build
--Merged: November Security Patch (8.1.0_r50)
--Fixed: Charger Offline
+- Update graphic blob
+- Fix gcam
+- Fix random mac
+- Upstream kernel to 3.18.132 
+- Add boeffla wl locker in kernel
+- Add kcall support in kernel
+- Decreased zram to 750mb from 2gb
+- Fixed slow charging
+- Miui power off charging animation
+- Updated security patch 2019-01
+- Added toggle for 4G/LTE
