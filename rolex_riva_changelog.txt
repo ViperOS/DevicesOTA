@@ -1,6 +1,10 @@
-ToxycOS Build v5.0 20181123
+### Build v5.2  ViperOS Oreo 8.1 20190129: ###
 
-Changelog:
+- Update thermal blov
+- Update audio blob
+- Fix headset issue
+
+### Build v5.2  ViperOS Oreo 8.1 20190126: ###
 
 - Update graphic blob
 - Fix gcam
