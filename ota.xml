@@ -319,9 +319,9 @@
                   <land>
                            <maintainer>Sushant</maintainer>
                            <devicename>Redmi 3S (land)</devicename>
-                           <filename>Viper-land-20181216-v5.1-OFFICIAL.zip</filename>
+                           <filename>Viper-land-20190213-v5.2-OFFICIAL.zip</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://www.androidfilehost.com/?fid=11410963190603906312</download>
+                           <download>https://master.dl.sourceforge.net/project/viper-project/land/Viper-land-20190213-v5.2-OFFICIAL.zip</download>
                            <changelog></changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum></forum>
