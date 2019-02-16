@@ -1,3 +1,9 @@
+### Build v5.2  ViperOS Oreo 8.1 20190215: ###
+
+- Fix signal issue
+- February security patch merged
+- Upstreamed kernel to 13.18.134
+
 ### Build v5.2  ViperOS Oreo 8.1 20190129: ###
 
 - Update thermal blov

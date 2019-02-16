@@ -223,9 +223,9 @@
                   <rolex>
                            <maintainer>Eko Sugiharto</maintainer>
                            <devicename>Xiaomi Redmi 4A/5A (rolex/riva)</devicename>
-                           <filename>Viper-rolex-20190129-v5.2-OFFICIAL</filename>
+                           <filename>Viper-rolex-20190215-v5.2-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>
-                           <download>https://master.dl.sourceforge.net/project/viper-project/rolex/Viper-rolex-20190129-v5.2-OFFICIAL.zip</download>
+                           <download>https://master.dl.sourceforge.net/project/viper-project/rolex/Viper-rolex-20190215-v5.2-OFFICIAL.zip</download>
                            <changelog>https://raw.githubusercontent.com/Viper-Project/DevicesOTA/oreo-mr1/rolex_riva_changelog.txt</changelog>
                            <gapps>http://opengapps.org</gapps>
                            <forum>https://forum.xda-developers.com/redmi-4a/development/rom-viperos-rom-redmi-4a-5a-t3893927</forum>
